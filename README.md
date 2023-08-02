@@ -11,7 +11,7 @@ Tiger is an extremely memory efficient Optimizer and also should be slightly fas
   
 ## Citations
 
-```
+```bibtex
 @misc{tigeropt,
   title={Tiger: A Tight-fisted Optimizer},
   author={Jianlin Su},
@@ -19,7 +19,7 @@ Tiger is an extremely memory efficient Optimizer and also should be slightly fas
   howpublished={\url{https://github.com/bojone/tiger}},
 }
 ```
-```
+```bibtex
 @article{Tillet2019TritonAI,
     title   = {Triton: an intermediate language and compiler for tiled neural network computations},
     author  = {Philippe Tillet and H. Kung and D. Cox},
