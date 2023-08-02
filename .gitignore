@@ -11,11 +11,14 @@ build/
 venv/
 ENV/
 data/
+dist/
+build/
 
 *.DS_Store 
 
 *.ipynb_checkpoints
 
 .pytest_cache/
+.mypy_cache/
 
 .python-version
