@@ -4,7 +4,7 @@
 </p>
 
 An accelerated implementation of the Tiger optimizer for PyTorch, supercharged with Triton for enhanced CUDA GPU efficiency in under 100 lines of python/triton. 
-Tiger is an extremely memory efficient Optimizer and also should be slightly faster than it's counterparts ADAM, SGD etc.
+Tiger is an extremely memory efficient Optimizer and also should be slightly faster than it's counterparts ADAM, SGD etc. **Inspired by:** [bojone/tiger](https://github.com/bojone/tiger/tree/main)
 
 ## Comparison
 <img src="assets/Tiger-Lion-AdamW.png" alt="form">
