@@ -3,8 +3,9 @@
 *.pyd
 __pycache__/
 
-/data/
+data/
 venv/
 env/
+dist/
 
 *.DS_Store

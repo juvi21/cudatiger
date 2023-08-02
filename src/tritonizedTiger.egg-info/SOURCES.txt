@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+src/tritonizedTiger.egg-info/PKG-INFO
+src/tritonizedTiger.egg-info/SOURCES.txt
+src/tritonizedTiger.egg-info/dependency_links.txt
+src/tritonizedTiger.egg-info/requires.txt
+src/tritonizedTiger.egg-info/top_level.txt
