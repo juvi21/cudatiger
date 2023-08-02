@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="cudatigertorch",
+    name="cudatiger",
     version="0.0.1", 
     description="About An accelerated implementation of the Tiger optimizer for PyTorch, supercharged with Triton for enhanced CUDA GPU efficiency",
     long_description=open("README.md", "r").read(),
