@@ -12,6 +12,7 @@ Tiger is an extremely memory efficient Optimizer and also should be slightly fas
 - Provide more examples.
 - Introduce testing.
 - Improve this README.
+- Push pypi
   
 ## Citations
 
