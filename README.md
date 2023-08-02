@@ -9,7 +9,7 @@ Tiger is an extremely memory efficient Optimizer and also should be slightly fas
 ## Comparison
 <img src="assets/Tiger-Lion-AdamW.png" alt="form">
 
-## TODO
+## ToDo
 
 - Add benchmarks comparing ADAM, TIGER, SGD, etc.
 - Provide more examples.
