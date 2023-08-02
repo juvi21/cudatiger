@@ -37,3 +37,6 @@ Tiger is an extremely memory efficient Optimizer and also should be slightly fas
 ```
 ## Art
 @Midjourney
+
+## License:
+This project is licensed under the MIT License.
