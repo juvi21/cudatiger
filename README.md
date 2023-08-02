@@ -1,4 +1,8 @@
 # tritonizedTiger
+<p align="center">
+  <img src="assets/cute_tiger.png" width="300" height="300" alt="Cute Llama">
+</p>
+
 An accelerated implementation of the Tiger optimizer for PyTorch, supercharged with Triton for enhanced CUDA GPU efficiency in under 100 lines of python/triton. 
 Tiger is an extremely memory efficient Optimizer and also should be slightly faster than it's counterparts ADAM, SGD etc.
 
