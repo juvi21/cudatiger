@@ -1,4 +1,4 @@
-# cudatiger
+# cudatigertorch
 <p align="center">
   <img src="assets/cute_tiger.png" width="300" height="300" alt="Cute Llama">
 </p>
